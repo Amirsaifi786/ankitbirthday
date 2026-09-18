@@ -1,0 +1,10 @@
+@import url("./cause.css");
+
+body {
+    min-height: 100vh;
+}
+
+.main-container {
+    position: relative;
+    z-index: 1;
+}
